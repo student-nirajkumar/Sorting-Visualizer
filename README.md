@@ -42,13 +42,14 @@ JavaScript	Sorting logic, animations, and UI interactions
 
 
 📂 Project Structure
-sorting-visualizer/
+     sorting-visualizer/
 │ index.html          # Main UI structure
 │ style.css           # Styling and UI theme
 │ script.js           # Sorting logic and visualization
 │
 ├── sounds/           # Sound effects for comparisons/swaps (optional)
 └── assets/           # Icons / images (optional)
+
 
 🚀 How It Works
 
